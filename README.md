@@ -6,7 +6,7 @@ This repository will help you get started with ReactJS in typescript. This boile
 ## Getting Started
 - Install typescript, typings and webpack
 ```sh
-$ npm install -g typescript typings webpack
+$ npm install -g typescript typings webpack webpack-dev-server
 ```
 - Link typescript and webpack to package
 ```sh
